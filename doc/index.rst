@@ -12,10 +12,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   getting-started
-   readings
-   problem-sets/problem-sets
-   projects/projects
+   get-started/index
+   readings/index
+   problem-sets/index
+   projects/index
 
 Indices and tables
 ==================
